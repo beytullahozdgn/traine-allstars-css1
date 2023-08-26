@@ -1,1 +1,1 @@
-https://beytullahozdgn.github.io/traine-allstars-css1/
+css1-traine
